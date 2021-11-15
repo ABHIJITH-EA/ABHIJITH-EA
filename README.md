@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABHIJITH-EA
 - 👀 I’m interested in Webtechnology AI ML System development
-- 🌱 I’m currently learning React Python Java C++ ML Datascience
-- 💞️ I’m looking to collaborate on Python React Java C++ ML
+- 🌱 I’m currently learning Python ML Datascience
+- 💞️ I’m looking to collaborate on Python C++ ML
 - 📫 How to reach me 
 
 <!---
